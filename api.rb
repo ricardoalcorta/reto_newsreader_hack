@@ -15,9 +15,4 @@ module API
 
 end
 
-#json = RestClient.get('https://www.reddit.com/.json')
-#json_hash = JSON.parse(json)
-# puts json_hash
-#puts json_hash["data"]["children"][i]["data"]["author"]
-#API.reddit_params(0)
 
